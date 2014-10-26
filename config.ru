@@ -1,4 +1,3 @@
-
 $:.unshift "./app"
 
 require 'yonearest_v1'
